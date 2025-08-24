@@ -12,23 +12,23 @@ Here's how it works:
 
 ## Submission Information
 
-- Live Link https://safe-work-pay-v3-2.vercel.app/
-- Presentation video: https://youtu.be/5vzjYtTKsVs
+- Live Link https://safework-pay-sei.vercel.app/
+- Presentation video: https://www.youtube.com/watch?v=XS4e2zyr26U
 
 ---
 
 ## 📜 Deployment Notes
 
-#### Core Testnet
+#### Sei Testnet
 
-The smart contracts are already deployed on the **Core Testnet** at the following addresses:
+The smart contracts are already deployed on the **Sei Testnet** at the following addresses:
 
-| Contract Name | Address                                                                                                                            |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **DappWorks** | [`0xf2011cfe8e379a4a890a7f1a5cdcc61629a2fa6b`](https://scan.test2.btcs.network/address/0xf2011cfe8e379a4a890a7f1a5cdcc61629a2fa6b) |
-| **USDT**      | [`0x7BBfC9Ea272595D794990A8C2ea615d95ECe3673`](https://scan.test2.btcs.network/address/0x7BBfC9Ea272595D794990A8C2ea615d95ECe3673) |
+| Contract Name  | Address                                                                                                                                  |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Freelancer** | [`0x93a5614f7417c7f6fC7eeB299aae1E6C97f18dF9`](https://seitrace.com/address/0x93a5614f7417c7f6fC7eeB299aae1E6C97f18dF9?chain=atlantic-2) |
+| **USDT**       | [`0x43Cb363312B8eF40e230acA218333A4da96854a5`](https://seitrace.com/address/0x43Cb363312B8eF40e230acA218333A4da96854a5?chain=atlantic-2) |
 
-🔗 _You can visit the [Core Testnet Explorer](https://scan.test2.btcs.network) to check the transactions._
+🔗 _You can visit the [Sei Testnet Explorer](https://seitrace.com) to check the transactions._
 
 ---
 
@@ -253,7 +253,7 @@ change file name .env.example to .env and add the environment variables in the .
 - **Backend (Smart Contracts)**: Solidity, Hardhat, OpenZeppelin Contracts, Node.js, Express.js, @google/generative-ai
 - **Chat Functionality**: CometChat
 - **Package Manager**: pnpm
-- **Blockchain**: Core Testnet
+- **Blockchain**: Sei Testnet
 - **AI**: Custom AI model for code evaluation and dispute resolution (integrated with Gemini API)
 
 ## Additional Notes
